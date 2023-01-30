@@ -42,7 +42,7 @@ class Net(nn.Module):
         self.drop4=nn.Dropout(dropout)                
          #Output - 11*11
         
-        #Convolution Block-2
+        #Convolution Block
         self.conv5=nn.Conv2d(20, 10, 3, padding=0, bias=False)
         self.gn5=nn.GroupNorm(2, 10)
         self.ln5=nn.LayerNorm(9)
