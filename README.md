@@ -10,10 +10,14 @@
 # Graphs:
 Graph 1: Test/Validation Loss for all 3 models together
 
+![image](https://user-images.githubusercontent.com/93775361/215679226-67187101-e4ab-4a24-adfc-764680a9dd7e.png)
+
+
 Graph 2: Test/Validation Accuracy for 3 models together
 
+![image](https://user-images.githubusercontent.com/93775361/215679320-6010cf0d-011a-4aa8-9bbb-764b4bdb8a72.png)
 
-![image](https://user-images.githubusercontent.com/93775361/215488324-2688dc43-21aa-45e3-aa34-e65571d1028a.png)
+
 
 # Misclassified images:
 **Group Normalization Misclassified images:**
