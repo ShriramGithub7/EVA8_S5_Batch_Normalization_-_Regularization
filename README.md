@@ -20,9 +20,16 @@ Graph 2: Test/Validation Accuracy for 3 models together
 
 ![image](https://user-images.githubusercontent.com/93775361/215666615-7b9a9a07-77ae-4d97-993f-cab686ce7216.png)
 
+
 **Layer Normalization Misclassified images:**
 
 ![image](https://user-images.githubusercontent.com/93775361/215669098-c78e8558-bfb7-4fbd-b91c-ff75d3eb893b.png)
+
+
+**Batch Normalization Misclassified images:**
+
+![image](https://user-images.githubusercontent.com/93775361/215678081-69a1380b-5b64-4d01-9508-783f63ea84e5.png)
+
 
 
 
